@@ -1,0 +1,9 @@
+#parrafoTarget {
+  border: 2px solid red; /* Corregido 'boder' a 'border' */
+  padding: 10px;
+}
+
+.resaltado {
+  background-color: yellow;
+  font-weight: bold;
+}
